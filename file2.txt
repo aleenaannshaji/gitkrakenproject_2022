@@ -1,0 +1,2 @@
+GitKraken is a Git GUI client for Windows, Mac and Linux.
+It's designed to make you a more productive Git user by making Git commands and processes easy, fast, and intuitive.
