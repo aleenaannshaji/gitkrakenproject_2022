@@ -3,7 +3,8 @@
 <title>Html tags</title>
 </head>
 <body>
-<center><h1>Hogwards School</h1></center>
-<img src="C:\Users\Albin\Desktop\ali\hogwards.jpg" width="200px" height="200px">
+<center><h1>Hogwarts School</h1></center>
+<img src="C:\Users\Albin\Desktop\ali\hogwarts.jpg" width="200px" height="200px">
+<p style="color:Teal;">Hogwarts School of Witchcraft and Wizardry is a fictional Scottish boarding school of magic for students aged eleven to eighteen, and is the primary setting for the first six books in J. K. Rowling's Harry Potter series and serves as a major setting in the Wizarding World universe.</p>
 </body>
 </html>
