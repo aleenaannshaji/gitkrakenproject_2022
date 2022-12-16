@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>Web Page Creation</title>
+</head>
+<body><hr><hr>
+<center>
+<body style="background-color:LightGray;">
+<img src="D:\aleena\aleena1.jpg" height="150px" width="150px"><br>
+<h1><u><i>Aleena Ann Shaji</i></u></h1>
+<h3>Reg MCA Student<br> Amal Jyothi College Of Engineering,<br> Kanjirappally</h3>
+</center>
+<style>
+table, th, td
+{
+border: 1px solid black;
+padding: 10px;
+{
+</style><br><hr><hr>
+<h2><u>RESUME</u></h2><hr><hr>
+<h3>My Qualifications</h3><hr>
+<table>
+<tr>
+<th colspan="3">Education Qualification</th>
+</tr>
+<tr>
+<th>10<sup>th</sup> Grade</th>
+<th>12<sup>th</sup> Grade</th>
+<th>Degree Grade</th>
+</tr>
+<tr>
+<td>A</td>
+<td>B+</td>
+<td>A</td>
+</tr>
+</table>
+<hr><hr>
+<h3>My Hobbies</h3><hr>
+<ol>
+<li>Listing To Music</li>
+<ul>
+<li>Ollulleru..</li>
+<dl>
+<dt>Ajagajantharam Movie</dt>
+<dd>-Song by Justin Varghese and Praseetha Chalakudy</dd>
+</dl>
+<li>Parudeesa..</li>
+<dl>
+<dt>Bheeshma Parvam Movie</dt>
+<dd>-Song by Sreenath Bhasi and Sushin Shyam</dd>
+</dl>
+</ul>
+<li>Singing</li>
+<li>Drawing <a href="D:\aleena\drawings.jpg" height="200px" width="200px">My Work</a></li>
+<li>Travelling <a href="D:\aleena\travelling.jpg" height="200px" width="200px">Explore</a></li>
+</ol><hr><hr>
+</body>
+</html>
